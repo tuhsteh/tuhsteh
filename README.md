@@ -2,7 +2,7 @@
 - 👀 I’m interested in making sure our teams have confidence they are building the right things the right way.
 - 🌱 I’m currently learning Kubernetes, Python, Golang, and all things I say I already know.
 - 💞️ I’m looking to collaborate on anything I can do to make lives easier and better.
-- 📫 tom.stear@cachengo.com  |  208.866.5168
+- 📫 tom.stear@cachengo.com
 - We can all do better!  And when I say "We can do better", I mean myself first.  <3
 
 <!---
